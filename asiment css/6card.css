@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  width: 400px;
+  height: 200px;
+}
+.cad {
+  height: 300px;
+  width: 400px;
+  padding: 5px;
+  border: 1px solid;
+  position: relative;
+  border-radius: 5px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  gap: 10px;
+}
+svg {
+  position: absolute;
+  top: 230px;
+  right: 10px;
+}

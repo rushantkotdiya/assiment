@@ -1,0 +1,22 @@
+@media (min-width: 320px) {
+  .mainsectionflex2 {
+    display: none;
+  }
+
+  .mainsectionflex {
+    flex-direction: column;
+  }
+
+  .footer2 {
+    width: fit-content;
+  }
+  .footer {
+    width: fit-content;
+  }
+  .employee2 {
+    display: none;
+  }
+  .employee3 {
+    display: none;
+  }
+}
